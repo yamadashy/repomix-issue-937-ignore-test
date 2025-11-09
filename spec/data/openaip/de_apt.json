@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "name": "Test Airport",
+        "icao": "EDDF",
+        "type": "AD_MIL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.570556, 50.026421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "name": "Another Airport",
+        "icao": "EDDM",
+        "type": "AD_CLOSED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.786086, 48.353783]
+      }
+    }
+  ]
+}
